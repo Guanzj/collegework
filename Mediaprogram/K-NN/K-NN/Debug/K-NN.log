@@ -1,0 +1,72 @@
+﻿生成启动时间为 2015/7/18 23:23:05。
+     1>项目“E:\Mediaprogram\K-NN\K-NN\K-NN.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "K-NN.cpp"
+         K-NN.cpp
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(1): error C2873: “System”: 符号不能用在 using 声明中
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(2): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(2): error C2873: “System”: 符号不能用在 using 声明中
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(2): error C2059: 语法错误:“.”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(3): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(3): error C2873: “System”: 符号不能用在 using 声明中
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(3): error C2059: 语法错误:“.”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(4): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(4): error C2873: “System”: 符号不能用在 using 声明中
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(4): error C2059: 语法错误:“.”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(5): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(5): error C2873: “System”: 符号不能用在 using 声明中
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(5): error C2059: 语法错误:“.”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(6): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(6): error C2873: “System”: 符号不能用在 using 声明中
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(6): error C2059: 语法错误:“.”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(7): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(7): error C2873: “System”: 符号不能用在 using 声明中
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(7): error C2059: 语法错误:“.”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(8): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(8): error C2873: “System”: 符号不能用在 using 声明中
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(8): error C2059: 语法错误:“.”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(9): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(9): error C2873: “System”: 符号不能用在 using 声明中
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(9): error C2059: 语法错误:“.”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(10): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(10): error C2873: “System”: 符号不能用在 using 声明中
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(10): error C2059: 语法错误:“.”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(11): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(11): error C2873: “System”: 符号不能用在 using 声明中
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(11): error C2059: 语法错误:“.”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(12): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(12): error C2873: “System”: 符号不能用在 using 声明中
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(12): error C2059: 语法错误:“.”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(13): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(13): error C2873: “System”: 符号不能用在 using 声明中
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(13): error C2059: 语法错误:“.”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(14): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(14): error C2873: “System”: 符号不能用在 using 声明中
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(14): error C2059: 语法错误:“.”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(17): error C2059: 语法错误:“public”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(18): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(19): error C2143: 语法错误 : 缺少“}”(在“public”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(19): error C2143: 语法错误 : 缺少“;”(在“public”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(20): error C2059: 语法错误:“public”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(21): error C2059: 语法错误:“public”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(22): error C2059: 语法错误:“public”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(23): error C2059: 语法错误:“public”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(24): error C2059: 语法错误:“public”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(25): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(25): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(29): error C2059: 语法错误:“private”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(30): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(30): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(41): error C2059: 语法错误:“public”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(42): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(42): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(103): error C2059: 语法错误:“private”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(104): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(104): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(226): error C2059: 语法错误:“}”
+     1>e:\mediaprogram\k-nn\k-nn\k-nn.cpp(226): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>已完成生成项目“E:\Mediaprogram\K-NN\K-NN\K-NN.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.26

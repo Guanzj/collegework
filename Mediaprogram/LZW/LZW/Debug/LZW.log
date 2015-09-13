@@ -1,0 +1,12 @@
+﻿生成启动时间为 2015/6/9 15:28:55。
+     1>项目“E:\Mediaprogram\LZW\LZW\LZW.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt LZW.cpp
+         LZW.cpp
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(341,5): error MSB6006: “CL.exe”已退出，代码为 2。
+     1>e:\mediaprogram\lzw\lzw\lzw.cpp(78): fatal error C1075: 与左侧的 大括号“{”(位于“e:\mediaprogram\lzw\lzw\lzw.cpp(5)”)匹配之前遇到文件结束
+     1>已完成生成项目“E:\Mediaprogram\LZW\LZW\LZW.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.54
